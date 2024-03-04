@@ -1,0 +1,19 @@
+2024-03-04 08:03:15.871 [info] [gitExtensionService] Initializing Git extension service.
+2024-03-04 08:03:15.871 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-03-04 08:03:15.871 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-03-04 08:03:15.872 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-03-04 08:03:17.633 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 08:03:18.664 [info] [chat] copilot token chat_enabled: true
+2024-03-04 08:03:18.664 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-03-04 08:03:18.664 [info] [auth] Got Copilot token for kikuyamizuki
+2024-03-04 08:03:18.848 [info] [githubTitleAndDescriptionProvider] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-03-04 08:03:18.848 [info] [githubTitleAndDescriptionProvider] Successfully registered GitHub PR title and description provider.
+2024-03-04 08:03:18.975 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 08:03:18.979 [info] [chat] copilot token chat_enabled: true
+2024-03-04 08:03:18.980 [info] [auth] Got Copilot token for kikuyamizuki
+2024-03-04 08:30:53.414 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 08:30:53.956 [info] [chat] copilot token chat_enabled: true
+2024-03-04 08:30:53.956 [info] [auth] Got Copilot token for kikuyamizuki
+2024-03-04 09:04:03.626 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 09:04:04.280 [info] [chat] copilot token chat_enabled: true
+2024-03-04 09:04:04.280 [info] [auth] Got Copilot token for kikuyamizuki

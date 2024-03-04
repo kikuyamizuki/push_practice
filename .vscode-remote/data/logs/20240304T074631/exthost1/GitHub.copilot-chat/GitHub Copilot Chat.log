@@ -1,0 +1,13 @@
+2024-03-04 07:47:07.749 [info] [gitExtensionService] Initializing Git extension service.
+2024-03-04 07:47:07.749 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-03-04 07:47:07.749 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-03-04 07:47:07.749 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-03-04 07:47:10.604 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 07:47:14.723 [info] [chat] copilot token chat_enabled: true
+2024-03-04 07:47:14.723 [info] [githubTitleAndDescriptionProvider] Initializing GitHub PR title and description provider provider.
+2024-03-04 07:47:14.723 [info] [auth] Got Copilot token for kikuyamizuki
+2024-03-04 07:47:14.725 [info] [githubTitleAndDescriptionProvider] Successfully activated the GitHub.vscode-pull-request-github extension.
+2024-03-04 07:47:14.725 [info] [githubTitleAndDescriptionProvider] Successfully registered GitHub PR title and description provider.
+2024-03-04 07:47:16.202 [info] [auth] Logged in as kikuyamizuki
+2024-03-04 07:47:16.205 [info] [chat] copilot token chat_enabled: true
+2024-03-04 07:47:16.205 [info] [auth] Got Copilot token for kikuyamizuki
